@@ -32,10 +32,10 @@
 Requisito funcional : é aquilo que o sistema precisa ter. (CRUD)
 
 
-Requisito ñ funional : referente a desempenho, segurança, usabilidade, 
+Requisito ñ funional : referente a desempenho, segurança, usabilidade, confiabilidade 
 
 
-Regra de negócio : é um conjunto de instruções que os usuários já seguem e que o sistema a ser desenvolvido deve contemplar.
+Regra de negócio : é um conjunto de instruções que os usuários já seguem e que o sistema a ser desenvolvido deve contemplar, condição imposta pelo cliente.
 
 
 Requisito de software: são as ações que o software deve executar, 
@@ -86,6 +86,4 @@ bom + bonito + barato === undefined.
 
 ===========================================================================================================================================
 
-							REQUISITOS FUNCIONAIS
-
--
+							
